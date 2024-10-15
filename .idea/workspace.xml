@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a847ff-59fd-4d80-adde-0db8f78edd8f" name="Changes" comment="Caso 1: Calcular promedio con conjunto vacio (ROJO)">
-      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
-    </list>
+    <list default="true" id="b0a847ff-59fd-4d80-adde-0db8f78edd8f" name="Changes" comment="Caso 2: Calcular promedio con conjunto de un elemento (ROJO)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in testConjunto.py.executor": "Run",
+    "Python.Conjunto.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -105,13 +104,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729027396478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Caso 1: Calcular promedio con conjunto vacio (VERDE)">
+      <option name="closed" value="true" />
+      <created>1729027425439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027425439</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Caso 2: Calcular promedio con conjunto de un elemento (ROJO)">
+      <option name="closed" value="true" />
+      <created>1729027705158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027705158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuracion inicial de proyecto KataTDD" />
     <MESSAGE value="Creando el esqueleto de las clases Conjunto y TestConjunto" />
     <MESSAGE value="Caso 1: Calcular promedio con conjunto vacio (ROJO)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: Calcular promedio con conjunto vacio (ROJO)" />
+    <MESSAGE value="Caso 1: Calcular promedio con conjunto vacio (VERDE)" />
+    <MESSAGE value="Caso 2: Calcular promedio con conjunto de un elemento (ROJO)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 2: Calcular promedio con conjunto de un elemento (ROJO)" />
   </component>
 </project>
